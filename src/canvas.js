@@ -39,8 +39,6 @@
                 ctx.lineCap = "round";
                 ctx.stroke();//command to draw
 
-
-
             };
 
 
