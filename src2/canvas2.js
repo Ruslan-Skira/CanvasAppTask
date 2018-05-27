@@ -1,6 +1,7 @@
 var el = document.getElementById('c');
 var ctx = el.getContext("2d");
 var isDrawing;
+var lineColor;
 
 
 el.onmousedown = function(e) {
@@ -8,7 +9,7 @@ el.onmousedown = function(e) {
     ctx.moveTo(e.clientX, e.clientY);
     console.log(e);
     //@TODO connect menu to this color
-    ctx.strokeStyle="#FF0000";
+    ctx.strokeStyle=lineColor;
     //@TODO connect menu to width
     ctx.lineWidth=10;
 
@@ -42,6 +43,11 @@ window.onclick = function(event) {
             }
         }
     }
+};
+//TODO change canvas color line
+function changeCanvasLineColor () {
+    lineColor = "#FF0";
+    document.getElementById("White").ctx.strokeStyle(lineColor);
 }
 
 

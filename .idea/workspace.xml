@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56fafac7-2dc0-462d-b440-83c175e87487" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src2/canvas2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src2/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canvas.js" afterPath="$PROJECT_DIR$/src/canvas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src2/canvas2.js" afterPath="$PROJECT_DIR$/src2/canvas2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src2/index.html" afterPath="$PROJECT_DIR$/src2/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="270">
+              <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -31,8 +29,8 @@
       <file leaf-file-name="canvas2.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src2/canvas2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="39" />
+            <state relative-caret-position="476">
+              <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -79,9 +77,9 @@
         <option value="$PROJECT_DIR$/src/idex.html" />
         <option value="$PROJECT_DIR$/src/canvas.js" />
         <option value="$PROJECT_DIR$/src2/canvas.js" />
-        <option value="$PROJECT_DIR$/src2/canvas2.js" />
-        <option value="$PROJECT_DIR$/src2/index.html" />
         <option value="$PROJECT_DIR$/src2/styles.css" />
+        <option value="$PROJECT_DIR$/src2/index.html" />
+        <option value="$PROJECT_DIR$/src2/canvas2.js" />
       </list>
     </option>
   </component>
@@ -276,12 +274,12 @@
       <updated>1527059137995</updated>
       <workItem from="1527059149435" duration="6879000" />
       <workItem from="1527150784584" duration="10859000" />
-      <workItem from="1527345570611" duration="8659000" />
+      <workItem from="1527345570611" duration="9713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26397000" />
+    <option name="totallyTimeSpent" value="27451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -421,14 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src2/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -437,10 +427,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src2/canvas2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="39" />
+        <state relative-caret-position="476">
+          <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="64" />
           <folding />
         </state>
       </provider>
