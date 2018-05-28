@@ -17,8 +17,17 @@
         <button onclick="myFunction()" class="dropbtn">Colors</button>
         <div id="myDropdown" class="dropdown-content">
             <button onclick="changeCanvasLineColor()" id="white">White</button>
-            <button id="green">Green</button>
+            <button onclick="changeCanvasLineColor()" id="green">Green</button>
         </div>
+
+        <button onclick="widthLine()" class="dropbtn">Width</button>
+        <div id="widthDropdown" class="dropdown-content">
+            <button onclick="changeCanvasLineWidth()" id="1">Odin</button>
+            <button onclick="changeCanvasLineWidth()" id="2">Two</button>
+        </div>
+
+        <button onclick="resetCanvas()" class="resetCanvas">Reset</button>
+
 
     </div>
 </body>

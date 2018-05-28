@@ -29,6 +29,11 @@ toggle between hiding and showing the dropdown content */
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
 }
+//for the width
+function widthLine() {
+    document.getElementById("widthDropdown").classList.toggle("show");
+}
+
 
 // Close the dropdown menu if the user clicks outside of it
 window.onclick = function(event) {
@@ -44,10 +49,15 @@ window.onclick = function(event) {
         }
     }
 };
+
 //TODO change canvas color line
 function changeCanvasLineColor () {
+
+    if(){}
     lineColor = "#FF0";
     document.getElementById("White").ctx.strokeStyle(lineColor);
 }
+
+
 
 
